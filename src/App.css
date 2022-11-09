@@ -21,13 +21,20 @@
 
 .App {
     background-color: #010101;
-    color: white;
     font-family: raleway_f, sans-serif;
     line-height: 1.55;
 }
 
 .main-header {
     position: relative;
+}
+
+.main-header::after {
+    content: '';
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+
 }
 
 .layers {
