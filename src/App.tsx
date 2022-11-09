@@ -6,6 +6,9 @@ function App() {
     return (
         <div className="App">
             <link rel="stylesheet" href="./components/css/main.css"/>
+            <script src={'./components/libs/gsap/gsap.min.js'} defer></script>
+            <script src={'./components/libs/gsap/ScrollTrigger.min.js'} defer></script>
+            <script src={'./components/libs/gsap/ScrollSmoother.min.js'} defer></script>
             <script src="./components/js/app.js" defer></script>
             <header className="main-header">
                 <div className="layers">
