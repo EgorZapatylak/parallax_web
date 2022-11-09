@@ -1,7 +1,7 @@
 {
-  "main.css": "/parallax_web/static/css/main.3409af53.chunk.css",
-  "main.js": "/parallax_web/static/js/main.b1f98577.chunk.js",
-  "main.js.map": "/parallax_web/static/js/main.b1f98577.chunk.js.map",
+  "main.css": "/parallax_web/static/css/main.5f11d9eb.chunk.css",
+  "main.js": "/parallax_web/static/js/main.5ff9ac75.chunk.js",
+  "main.js.map": "/parallax_web/static/js/main.5ff9ac75.chunk.js.map",
   "static/js/1.95ea83b6.chunk.js": "/parallax_web/static/js/1.95ea83b6.chunk.js",
   "static/js/1.95ea83b6.chunk.js.map": "/parallax_web/static/js/1.95ea83b6.chunk.js.map",
   "static/js/2.7587d2c9.chunk.js": "/parallax_web/static/js/2.7587d2c9.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/parallax_web/static/js/runtime~main.3cb78dfc.js",
   "runtime~main.js.map": "/parallax_web/static/js/runtime~main.3cb78dfc.js.map",
   "static/media/App.css": "/parallax_web/static/media/layer-base.e17d3f76.png",
-  "static/css/main.3409af53.chunk.css.map": "/parallax_web/static/css/main.3409af53.chunk.css.map",
+  "static/css/main.5f11d9eb.chunk.css.map": "/parallax_web/static/css/main.5f11d9eb.chunk.css.map",
   "index.html": "/parallax_web/index.html",
-  "precache-manifest.ab2a79740e339f568f26cbd7db746d64.js": "/parallax_web/precache-manifest.ab2a79740e339f568f26cbd7db746d64.js",
+  "precache-manifest.382c5483a5738ba88d9de36fba9ffd85.js": "/parallax_web/precache-manifest.382c5483a5738ba88d9de36fba9ffd85.js",
   "service-worker.js": "/parallax_web/service-worker.js"
 }
