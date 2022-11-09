@@ -69,7 +69,8 @@
     will-change: transform;
     text-transform: uppercase;
     font-weight: 900;
-    color: #e7e7e1;
+    color: #e7e7e0;
+    text-shadow: 0 0 15px #9d822b;
 }
 
 .layers_title {
