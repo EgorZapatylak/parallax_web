@@ -6,6 +6,7 @@
 
 :root {
     --index: calc(1vw + 1vh);
+    --text: #e7e7e0;
 }
 
 @font-face {
@@ -39,7 +40,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    bottom: calc(var(--index)* -4.5);
+    bottom: calc(var(--index) * -4.5);
 }
 
 .layers {
@@ -81,7 +82,7 @@
     will-change: transform;
     text-transform: uppercase;
     font-weight: 900;
-    color: #e7e7e0;
+    color: var(--text);
     text-shadow: 0 0 15px #9d822b;
 }
 
@@ -114,4 +115,32 @@
 
 .main-article {
     background-image: url("./components/img/dungeon.jpg");
+    background-size: cover;
+    background-position: center;
+    color: var(--text);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    text-align: center;
+}
+
+.main-article_header {
+    text-transform: uppercase;
+    font-size: calc(var(--index) * 1.8);
+    letter-spacing: calc(var(--index) / 7.6);
+}
+
+.main-article_p {
+    max-width: calc(var(--index) * 30);
+    font-size: calc(var(--index) * 0.76);
+    margin-top: calc(var(--index) / 1.3) ;
+}
+
+.copy {
+    position: absolute;
+    bottom: calc(var(--index)* 2.5);
+    opacity: 0.48;
+    font-size: calc(var(--index) * 0.74);
+    letter-spacing: calc(var(--index) / 36);
 }
